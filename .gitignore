@@ -1,0 +1,39 @@
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+*.egg-info/
+.env
+.venv/
+env/
+venv/
+
+.ipynb_checkpoints/
+
+.vscode/
+
+.DS_Store
+Thumbs.db
+
+*.log
+
+# data/
+# *.csv
+# *.tsv
+# *.json
+# *.xlsx
+# *.zip
+
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.pt
+*.pth
+#models/
+
+*.env
+.env.*
+
+mlruns/
+wandb/
+*.mlflow/
